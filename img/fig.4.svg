@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<!-- online-simulator.github.io.7.545.753.33.203 @ Sun Nov 08 2026 08:55:04 GMT+0900 (日本標準時) @ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 -->
+<!-- plot2d("eps","30","d=t,d;","sharpness(d,g)=<2*(2g+1)*d,q_Shannon(d)=<1+(1/log2(3))/d,ln_gamma_EM(s,m)=<last[table_Bn={1/1,-1/2,1/6,,-1/30,,1/42,,-1/30,,5/66,,-691/2730,,7/6,,-3617/510,,43867/798,,-174611/330,,854513/138,,-236364091/2730,,8553103/6,,-23749461029/870},N=real(s)<7&&&floor(8-real(s)),sN=s+N,(sN-0.5)*ln(sN)-sN+0.5*ln(2*pi)+_s((k)=<table_Bn[2*k]/(2*k*(2*k-1)*sN**(2*k-1)),1,m)-(N>0&&&_s((j)=<ln(s+j),0,N-1))],zeta_EM(s,n,m)=<last[table_Bn={1/1,-1/2,1/6,,-1/30,,1/42,,-1/30,,5/66,,-691/2730,,7/6,,-3617/510,,43867/798,,-174611/330,,854513/138,,-236364091/2730,,8553103/6,,-23749461029/870},table=table_Bn/linspace(0,28,29).!,Tkn(k,n,s)=<table[2*k]*n**(1-s-2*k)*exp(_s((j)=<ln(s+j),0,2*k-2)),_s((j)=<j**(-s),1,n-1)+n**(-s)/2+n**(1-s)/(s-1)+_s((k)=<Tkn(k,n,s)=>,1,m)],zeta_EM_full(s,n,m)=<real(s)>=0&&&zeta_EM(s,n,m)=>||||exp(s*ln(2)+(s-1)*ln(pi)+ln(sin(pi*s/2))+ln_gamma_EM(1-s,m)=>)*zeta_EM(1-s,n,m)=>,xi_EM_full(s,n,m)=<real(s)>=0.5&&&exp(ln(s)+ln(s-1)-ln(2)-(s/2)*ln(pi)+ln_gamma_EM(s/2,m)=>)*zeta_EM_full(s,n,m)=>||||xi_EM_full(1-s,n,m)=>,xi_adelic_Haar_measure(s)=<xi_EM_full(s,100,14)=>/(0.5*s*(s-1)),capa_eff_Shannon_Hartley(s,d,g)=<sharpness(d,g)*log2(1+q_Shannon(d)/xi_adelic_Haar_measure(s)),dS(s,d,g)=<capa_eff_Shannon_Hartley(s,d,g)=>-capa_eff_Shannon_Hartley(2,d,g)=>,dS_margin(d,g)=<dS(log2e,d,g)=>/sharpness(d,g),dS_margin0=log2(xi_adelic_Haar_measure(2)/xi_adelic_Haar_measure(log2e)),-dS_margin0;-dS_margin(d,0);dS0=log2(1+1/xi_adelic_Haar_measure(log2e))-log2(1+1/xi_adelic_Haar_measure(2)),-dS0;ZPE=-dS0*ln2,ZPE;gamma_Euler_Mascheroni=0.57721566490153286,gamma_Euler_Mascheroni;","30","ORIGIN{2.5,gray,17}TITLE{Landauer's principle: ZPE≒γ of Euler-Mascheroni constant -> P≠NP...}XLABEL{d}YLABEL{-dS}-dS_margin0=-log2(ξ(2)/ξ(log2e))>e*γ as initial condition::0;-dS_margin as decaying Zero-Point-Energy::5;-dS0=0.83667323347935...@d→∞ as of now::0;ZPE=-dS0*ln2=0.57993769283618... as dark-energy;γ=0.5772... in ZPE→γ+0 as arrow of time z→z_W0@singularity;"," "," "," ") -->
+<!-- center=true&wheel=true&drag=false&test-case=false&plot-all=true&relzooming=true&snap=true&legend=true&axis-t=false&axis-x=true&log-x=false&imag-x=false&axis-y=true&log-y=false&imag-y=false&axis-z=true&axis-v=true&config-plot=true&useMatrix=true&useStrict=false&sharedStorage=false&checkError=true&equation-list=false&config=false&isRightAssociativityBR=false&isDIVprior2OMUL=false&useComma=false&use$let=false&useMutex=false&useWorker=true&plot2d-Ver=3&decDigit=1&roundDigit-y=0&rows-y=5&roundDigit-x=0&rows-x=5&n_thread=4&canvas-background=black&grid-line-width=0.5&marker-size=5&marker-line-width=0&plot-line-width=2&font-size=12&grid-x-Ni=3&grid-y-Nj=4&kx-adjust=2&marker-colors=Ver.1&legend-kx=0.25&legend-ky=0.1&canvas-globalCompositeOperationLayer=source-over&canvas-globalCompositeOperation=source-over&useComplex=-1&expDigit=-1&useFunc=0&useScopeWith=0&N=30&matSizeMax=1024&depthMax=300&oldPlot2d=false&input-z=ORIGIN{2.5,gray,17}TITLE{Landauer's principle: ZPE≒γ of Euler-Mascheroni constant -> P≠NP...}XLABEL{d}YLABEL{-dS}-dS_margin0=-log2(ξ(2)/ξ(log2e))>e*γ as initial condition::0;-dS_margin as decaying Zero-Point-Energy::5;-dS0=0.83667323347935...@d→∞ as of now::0;ZPE=-dS0*ln2=0.57993769283618... as dark-energy;γ=0.5772... in ZPE→γ+0 as arrow of time z→z_W0@singularity;&last-legend=0&expDigitX=-1&expDigitY=-1&bg-color=&grid-line-color=gray -->
+<polygon fill="black" stroke="none" points="0 0 512 0 512 512 0 512"/>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(256 14)" x="-223.7" y="0">Landauer's principle: ZPE≒γ of Euler-Mascheroni constant -&gt; P≠NP...</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(279.2 486.4)" x="-4.4" y="0">d</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="rotate(-90 25.6 232.3) translate(25.6 232.3)" x="-11" y="14">-dS</text>
+<line stroke="gray" stroke-width="2.5" stroke-linecap="round" x1="93" y1="435.7" x2="93" y2="28.9"/>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="93" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="89.7" y="459.7">0</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="217.2" y1="435.7" x2="217.2" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="210.5" y="459.7">10</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="341.3" y1="435.7" x2="341.3" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="334.6" y="459.7">20</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="465.4" y1="435.7" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="458.7" y="459.7">30</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="465.4" y2="435.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="441.7">0.5</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="300.1" x2="465.4" y2="300.1"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="306.1">1</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="164.5" x2="465.4" y2="164.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="170.5">1.5</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="28.9" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="34.9">2</text>
+<g style="mask:url(#mask_lines_and_gradations)">
+</g>
+<g style="mask:url(#mask_lines_and_gradations)">
+<polyline fill="none" stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 136.9 105.5 136.9 117.9 136.9 130.3 136.9 142.7 136.9 155.1 136.9 167.5 136.9 179.9 136.9 192.3 136.9 204.8 136.9 217.2 136.9 229.6 136.9 242 136.9 254.4 136.9 266.8 136.9 279.2 136.9 291.6 136.9 304 136.9 316.5 136.9 328.9 136.9 341.3 136.9 353.7 136.9 366.1 136.9 378.5 136.9 390.9 136.9 403.3 136.9 415.8 136.9 428.2 136.9 440.6 136.9 453 136.9 465.4 136.9"/>
+<line />
+<polyline fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 136.9 105.5 294.1 117.9 315.7 130.3 324.3 142.7 329 155.1 331.8 167.5 333.8 179.9 335.3 192.3 336.4 204.8 337.2 217.2 337.9 229.6 338.5 242 339 254.4 339.4 266.8 339.7 279.2 340 291.6 340.3 304 340.5 316.5 340.7 328.9 340.9 341.3 341.1 353.7 341.2 366.1 341.4 378.5 341.5 390.9 341.6 403.3 341.7 415.8 341.8 428.2 341.9 440.6 342 453 342.1 465.4 342.2"/>
+<line />
+<polyline fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 344.4 105.5 344.4 117.9 344.4 130.3 344.4 142.7 344.4 155.1 344.4 167.5 344.4 179.9 344.4 192.3 344.4 204.8 344.4 217.2 344.4 229.6 344.4 242 344.4 254.4 344.4 266.8 344.4 279.2 344.4 291.6 344.4 304 344.4 316.5 344.4 328.9 344.4 341.3 344.4 353.7 344.4 366.1 344.4 378.5 344.4 390.9 344.4 403.3 344.4 415.8 344.4 428.2 344.4 440.6 344.4 453 344.4 465.4 344.4"/>
+<line />
+<polyline fill="none" stroke="rgb(51,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 414 105.5 414 117.9 414 130.3 414 142.7 414 155.1 414 167.5 414 179.9 414 192.3 414 204.8 414 217.2 414 229.6 414 242 414 254.4 414 266.8 414 279.2 414 291.6 414 304 414 316.5 414 328.9 414 341.3 414 353.7 414 366.1 414 378.5 414 390.9 414 403.3 414 415.8 414 428.2 414 440.6 414 453 414 465.4 414"/>
+<line />
+<polyline fill="none" stroke="rgb(0,153,255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 414.7 105.5 414.7 117.9 414.7 130.3 414.7 142.7 414.7 155.1 414.7 167.5 414.7 179.9 414.7 192.3 414.7 204.8 414.7 217.2 414.7 229.6 414.7 242 414.7 254.4 414.7 266.8 414.7 279.2 414.7 291.6 414.7 304 414.7 316.5 414.7 328.9 414.7 341.3 414.7 353.7 414.7 366.1 414.7 378.5 414.7 390.9 414.7 403.3 414.7 415.8 414.7 428.2 414.7 440.6 414.7 453 414.7 465.4 414.7"/>
+<line />
+</g>
+<defs><mask id="mask_lines_and_gradations"><rect x="93" y="28.8" width="373.3" height="407.8" fill="#ffffff"/></mask></defs>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="93 129.9 87 140.4 99.1 140.4"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="105.5 287.1 99.4 297.6 111.5 297.6"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="117.9 308.7 111.8 319.2 123.9 319.2"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="130.3 317.3 124.2 327.8 136.3 327.8"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="142.7 322 136.6 332.4 148.7 332.4"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="155.1 324.9 149.1 335.3 161.1 335.3"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="167.5 326.8 161.5 337.3 173.6 337.3"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="179.9 328.3 173.9 338.8 186 338.8"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="192.3 329.4 186.3 339.8 198.4 339.8"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="204.8 330.2 198.7 340.7 210.8 340.7"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="217.2 330.9 211.1 341.4 223.2 341.4"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="229.6 331.5 223.5 342 235.6 342"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="242 332 235.9 342.4 248 342.4"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="254.4 332.4 248.4 342.8 260.4 342.8"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="266.8 332.7 260.8 343.2 272.9 343.2"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="279.2 333 273.2 343.5 285.3 343.5"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="291.6 333.3 285.6 343.8 297.7 343.8"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="304 333.5 298 344 310.1 344"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="316.5 333.7 310.4 344.2 322.5 344.2"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="328.9 333.9 322.8 344.4 334.9 344.4"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="341.3 334.1 335.2 344.6 347.3 344.6"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="353.7 334.3 347.6 344.7 359.7 344.7"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="366.1 334.4 360.1 344.9 372.2 344.9"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="378.5 334.5 372.5 345 384.6 345"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="390.9 334.6 384.9 345.1 397 345.1"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="403.3 334.7 397.3 345.2 409.4 345.2"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="415.8 334.8 409.7 345.3 421.8 345.3"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="428.2 334.9 422.1 345.4 434.2 345.4"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="440.6 335 434.5 345.5 446.6 345.5"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="453 335.1 446.9 345.6 459 345.6"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="465.4 335.2 459.4 345.7 471.5 345.7"/>
+<polygon fill="black" stroke="none" points="128 52.7 479.5 52.7 479.5 64.7 128 64.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="64.7">-dS_margin0=-log2(ξ(2)/ξ(log2e))&gt;e*γ as initial condition</text>
+<line stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="58.7" x2="152" y2="58.7"/>
+<polygon fill="black" stroke="none" points="128 67.7 401.7 67.7 401.7 79.7 128 79.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="79.7">-dS_margin as decaying Zero-Point-Energy</text>
+<line stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="73.7" x2="152" y2="73.7"/>
+<polygon fill="rgb(255,152,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="140 66.7 133.9 77.1 146 77.1"/>
+<polygon fill="black" stroke="none" points="128 82.7 407.7 82.7 407.7 94.7 128 94.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="94.7">-dS0=0.83667323347935...@d→∞ as of now</text>
+<line stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="88.7" x2="152" y2="88.7"/>
+<polygon fill="black" stroke="none" points="128 97.7 445.9 97.7 445.9 109.7 128 109.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="109.7">ZPE=-dS0*ln2=0.57993769283618... as dark-energy</text>
+<line stroke="rgb(51,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="103.7" x2="152" y2="103.7"/>
+<polygon fill="black" stroke="none" points="128 112.7 506.5 112.7 506.5 124.7 128 124.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="124.7">γ=0.5772... in ZPE→γ+0 as arrow of time z→z_W0@singularity</text>
+<line stroke="rgb(0,153,255)" stroke-width="2" stroke-linecap="round" x1="128" y1="118.7" x2="152" y2="118.7"/>
+</svg>
