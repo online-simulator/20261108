@@ -19,3 +19,7 @@
 ## 2026/11/14
 [[en]universe.md](20261114/[en]universe.md)
 [[ja]universe.md](20261114/[ja]universe.md)
+
+## 2026/11/26
+[[en]P_NP.md](20261126/[en]P_NP.md)
+[[ja]P_NP.md](20261126/[ja]P_NP.md)
