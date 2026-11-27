@@ -41,6 +41,8 @@ In contrast, by embedding the completed zeta function \(\Lambda(s) = \pi^{-s/2}\
 
 \[\text{capa}(n, d, g) = (-dS_0) \cdot n(2g+1)d \left( 1 - \exp\left( -\frac{1}{n(2g+1)d (1 + dS_0)} \right) \right)\]
 
+![AD](img/AD.svg)
+
 * **Penalty-Free Exponential Decay**:
   With a single-round base of \(1 + dS_0 \approx 0.163327\) (corresponding to a saturation ceiling of \(\log_2(168) \approx 7.39\text{ ebits}\) in base-2 quantum information units), the joint winning probability \(w_n = (1 + dS_0)^{n(2g+1)d}\) decays without slowdown penalties, achieving \(1.35 \times 10^{-8}\) by \(n = 10\) even for \(d = 1, g = 0\).
 * **Physical Consistency via Resource Depletion**:

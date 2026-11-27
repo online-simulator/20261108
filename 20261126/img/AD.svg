@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<!-- online-simulator.github.io.7.546.761.33.204 @ Sat Nov 28 2026 03:19:54 GMT+0900 (日本標準時) @ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36 -->
+<!-- plot2d("log2e","2","x=t,x;x;x;x;x;log2e;","s=x,q_Shannon(d)=<1+(1/log2(3))/d,q_Shannon(1);C0_digital=1/sqrt(2),C0_digital;ln_gamma_EM(s,m)=<last[table_Bn={1/1,-1/2,1/6,,-1/30,,1/42,,-1/30,,5/66,,-691/2730,,7/6,,-3617/510,,43867/798,,-174611/330,,854513/138,,-236364091/2730,,8553103/6,,-23749461029/870},N=real(s)<7&&&floor(8-real(s)),sN=s+N,(sN-0.5)*ln(sN)-sN+0.5*ln(2*pi)+_s((k)=<table_Bn[2*k]/(2*k*(2*k-1)*sN**(2*k-1)),1,m)-(N>0&&&_s((j)=<ln(s+j),0,N-1))],zeta_EM(s,n,m)=<last[table_Bn={1/1,-1/2,1/6,,-1/30,,1/42,,-1/30,,5/66,,-691/2730,,7/6,,-3617/510,,43867/798,,-174611/330,,854513/138,,-236364091/2730,,8553103/6,,-23749461029/870},table=table_Bn/linspace(0,28,29).!,Tkn(k,n,s)=<table[2*k]*n**(1-s-2*k)*exp(_s((j)=<ln(s+j),0,2*k-2)),_s((j)=<j**(-s),1,n-1)+n**(-s)/2+n**(1-s)/(s-1)+_s((k)=<Tkn(k,n,s)=>,1,m)],zeta_EM_full(s,n,m)=<real(s)>=0&&&zeta_EM(s,n,m)=>||||exp(s*ln(2)+(s-1)*ln(pi)+ln(sin(pi*s/2))+ln_gamma_EM(1-s,m)=>)*zeta_EM(1-s,n,m)=>,xi_EM_full(s,n,m)=<real(s)>=0.5&&&exp(ln(s)+ln(s-1)-ln(2)-(s/2)*ln(pi)+ln_gamma_EM(s/2,m)=>)*zeta_EM_full(s,n,m)=>||||xi_EM_full(1-s,n,m)=>,xi_adelic_Haar_measure(s)=<xi_EM_full(s,100,14)=>/(0.5*s*(s-1)),C0_analog=xi_adelic_Haar_measure(2),C0_analog;xi_adelic_Haar_measure(log2e);xi_adelic_Haar_measure(s);","10","ORIGIN{2.5,gray,17}TITLE{quantum cut-off of natural AD-conversion for arithmetic curves}XLABEL{x}YLABEL{q}q_Shannon of Shannon limit,d=1::0;C0_digital=1/sqrt(2);C0_analog=ξ(2)=(pi-(pi/3+pi/3+0))/2=pi/6;ξ(log2e)=1.58899905657336... -> irrational number;ξ(s)=π**(-s/2)*Γ(s/2)*ζ(s) -> stable ξ">0::5;x=log2e of AD-conversion::0;"," "," "," ") -->
+<!-- center=true&wheel=true&drag=false&test-case=false&plot-all=true&relzooming=true&snap=true&legend=true&axis-t=false&axis-x=true&log-x=false&imag-x=false&axis-y=true&log-y=false&imag-y=false&axis-z=true&axis-v=true&config-plot=false&useMatrix=true&useStrict=false&sharedStorage=false&checkError=true&equation-list=false&config=false&isRightAssociativityBR=false&isDIVprior2OMUL=false&useComma=false&use$let=false&useMutex=false&useWorker=true&plot2d-Ver=3&decDigit=1&roundDigit-y=0&rows-y=5&roundDigit-x=0&rows-x=5&n_thread=4&canvas-background=black&grid-line-width=0.5&marker-size=5&marker-line-width=0&plot-line-width=2&font-size=12&grid-x-Ni=0&grid-y-Nj=0&kx-adjust=2&marker-colors=Ver.1&legend-kx=0.25&legend-ky=0.1&canvas-globalCompositeOperationLayer=source-over&canvas-globalCompositeOperation=source-over&useComplex=-1&expDigit=-1&useFunc=0&useScopeWith=0&N=10&matSizeMax=1024&depthMax=300&oldPlot2d=false&input-z=ORIGIN{2.5,gray,17}TITLE{quantum cut-off of natural AD-conversion for arithmetic curves}XLABEL{x}YLABEL{q}q_Shannon of Shannon limit,d=1::0;C0_digital=1/sqrt(2);C0_analog=ξ(2)=(pi-(pi/3+pi/3+0))/2=pi/6;ξ(log2e)=1.58899905657336... -> irrational number;ξ(s)=π**(-s/2)*Γ(s/2)*ζ(s) -> stable ξ">0::5;x=log2e of AD-conversion::0;&last-legend=0&expDigitX=-1&expDigitY=-1&bg-color=&grid-line-color=gray -->
+<polygon fill="black" stroke="none" points="0 0 512 0 512 512 0 512"/>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(256 14)" x="-204.2" y="0">quantum cut-off of natural AD-conversion for arithmetic curves</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(279.2 486.4)" x="-3.5" y="0">x</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="rotate(-90 25.6 232.3) translate(25.6 232.3)" x="-4.4" y="14">q</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="93" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="84.7" y="459.7">1.4</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="217.2" y1="435.7" x2="217.2" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="208.8" y="459.7">1.6</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="341.3" y1="435.7" x2="341.3" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="333" y="459.7">1.8</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="465.4" y1="435.7" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="462.1" y="459.7">2</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="465.4" y2="435.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="441.7">0.5</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="300.1" x2="465.4" y2="300.1"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="306.1">1</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="164.5" x2="465.4" y2="164.5"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="170.5">1.5</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="28.9" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="34.9">2</text>
+<g style="mask:url(#mask_lines_and_gradations)">
+</g>
+<g style="mask:url(#mask_lines_and_gradations)">
+<polyline fill="none" stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="119.5 128.9 154.1 128.9 188.7 128.9 223.3 128.9 257.9 128.9 292.5 128.9 327.1 128.9 361.6 128.9 396.2 128.9 430.8 128.9 465.4 128.9"/>
+<line />
+<polyline fill="none" stroke="rgb(255,127,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="119.5 379.5 154.1 379.5 188.7 379.5 223.3 379.5 257.9 379.5 292.5 379.5 327.1 379.5 361.6 379.5 396.2 379.5 430.8 379.5 465.4 379.5"/>
+<line />
+<polyline fill="none" stroke="rgb(255,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="119.5 429.3 154.1 429.3 188.7 429.3 223.3 429.3 257.9 429.3 292.5 429.3 327.1 429.3 361.6 429.3 396.2 429.3 430.8 429.3 465.4 429.3"/>
+<line />
+<polyline fill="none" stroke="rgb(127,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="119.5 140.3 154.1 140.3 188.7 140.3 223.3 140.3 257.9 140.3 292.5 140.3 327.1 140.3 361.6 140.3 396.2 140.3 430.8 140.3 465.4 140.3"/>
+<line />
+<polyline fill="none" stroke="rgb(0,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="119.5 140.3 154.1 201.8 188.7 250 223.3 288.7 257.9 320.3 292.5 346.5 327.1 368.5 361.6 387.2 396.2 403.3 430.8 417.2 465.4 429.3"/>
+<line />
+<polyline fill="none" stroke="rgb(0,127,255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="119.5 140.3 119.5 201.8 119.5 250 119.5 288.7 119.5 320.3 119.5 346.5 119.5 368.5 119.5 387.2 119.5 403.3 119.5 417.2 119.5 429.3"/>
+<line />
+</g>
+<defs><mask id="mask_lines_and_gradations"><rect x="93" y="28.8" width="373.3" height="407.8" fill="#ffffff"/></mask></defs>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="119.5 134.1 125.8 140.3 119.5 146.6 113.3 140.3"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="154.1 195.6 160.4 201.8 154.1 208.1 147.9 201.8"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="188.7 243.8 195 250 188.7 256.3 182.4 250"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="223.3 282.5 229.6 288.7 223.3 295 217 288.7"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="257.9 314 264.2 320.3 257.9 326.6 251.6 320.3"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="292.5 340.2 298.7 346.5 292.5 352.8 286.2 346.5"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="327.1 362.3 333.3 368.5 327.1 374.8 320.8 368.5"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="361.6 381 367.9 387.2 361.6 393.5 355.4 387.2"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="396.2 397 402.5 403.3 396.2 409.5 390 403.3"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="430.8 410.9 437.1 417.2 430.8 423.4 424.6 417.2"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="465.4 423 471.7 429.3 465.4 435.5 459.1 429.3"/>
+<polygon fill="black" stroke="none" points="128 52.7 347.7 52.7 347.7 64.7 128 64.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="64.7">q_Shannon of Shannon limit,d=1</text>
+<line stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="58.7" x2="152" y2="58.7"/>
+<polygon fill="black" stroke="none" points="128 67.7 275.2 67.7 275.2 79.7 128 79.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="79.7">C0_digital=1/sqrt(2)</text>
+<line stroke="rgb(255,127,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="73.7" x2="152" y2="73.7"/>
+<polygon fill="black" stroke="none" points="128 82.7 392.6 82.7 392.6 94.7 128 94.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="94.7">C0_analog=ξ(2)=(pi-(pi/3+pi/3+0))/2=pi/6</text>
+<line stroke="rgb(255,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="88.7" x2="152" y2="88.7"/>
+<polygon fill="black" stroke="none" points="128 97.7 443.2 97.7 443.2 109.7 128 109.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="109.7">ξ(log2e)=1.58899905657336... -&gt; irrational number</text>
+<line stroke="rgb(127,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="103.7" x2="152" y2="103.7"/>
+<polygon fill="black" stroke="none" points="128 112.7 378.2 112.7 378.2 124.7 128 124.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="124.7">ξ(s)=π**(-s/2)*Γ(s/2)*ζ(s) -&gt; stable ξ"&gt;0</text>
+<line stroke="rgb(0,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="118.7" x2="152" y2="118.7"/>
+<polygon fill="rgb(0,255,0)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="140 112.4 146.2 118.7 140 124.9 133.7 118.7"/>
+<polygon fill="black" stroke="none" points="128 127.7 304.8 127.7 304.8 139.7 128 139.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="139.7">x=log2e of AD-conversion</text>
+<line stroke="rgb(0,127,255)" stroke-width="2" stroke-linecap="round" x1="128" y1="133.7" x2="152" y2="133.7"/>
+</svg>
