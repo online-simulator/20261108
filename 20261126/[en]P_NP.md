@@ -52,6 +52,9 @@ In contrast, by embedding the completed zeta function \(\Lambda(s) = \pi^{-s/2}\
 
 By Hurwitz's theorem, the automorphism group of a compact Riemann surface of genus \(g \geq 2\) satisfies \(|\text{Aut}(C)| \leq 84(g-1)\). Comparing the geometric symmetry ceiling \(\ln|\text{Aut}(C)|\) against the zeta-derived capacity bound \(\text{capa}_0 \approx 5.122695\) via the margin ratio \(\text{Margin} = \ln|\text{Aut}| / \text{capa}_0\) reveals a sharp structural selection:
 
+![capa0](img/capa0.svg)
+![Nsol](img/Nsol.svg)
+
 | Arithmetic Curve | Genus \(g\) | Automorphism Group \(\text{Aut}(C)\) | Order \(|\text{Aut}|\) | Symmetry Ceiling \(\ln|\text{Aut}|\) | Margin Ratio \(\frac{\ln|\text{Aut}|}{\text{capa}_0}\) | Packable Cells (\(d=1\))<br>\(\log_{10} N_{\text{sol}}\) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Modular Curve \(X_0(37)\)** | \(2\) | Klein four-group | \(4\) | \(1.3863\) | \(0.271\) (Deficient) | \(4.4382\) |
@@ -91,6 +94,8 @@ The finite-field symmetries of Hurwitz curves directly construct optimal high-di
 
 Derived from Szpiro's conjecture (\(N_{\text{sol}} = \exp(-dS)\)) and digital quantization loss, the lattice density exponent \(\alpha(s, d, g)\) cancels the topological factor \((2g+1)\) between numerator and denominator, remaining invariant across all arithmetic curves and converging as \(d \to \infty\) to the universal constant **\(\alpha_{\text{SVP}} \approx 0.546470\)**.
 
+![alpha](../img/fig.8.svg)
+
 * **Adelic Space Compression Gain (\(\approx +0.0525\text{ bits/dim}\))**:
   In flat Euclidean space, the sum of the Kabatiansky–Levenshtein kissing number upper bound (\(\kappa_{\text{KL}} \approx 0.401007\)) and the packing loss exponent equals the \(1.0000\text{ bit/dim}\) Shannon budget (at \(\text{SNR} = 3\), \(C = \frac{1}{2}\log_2(1+3) = 1\)). In our model, \(\kappa_{\text{KL}} + \alpha_{\text{SVP}} \approx 0.947477\), yielding a positive **adelic coding gain of \(+0.052523\text{ bits/dim}\)**. Via the adelic product formula (\(|x|_\infty \prod_p |x|_p = 1\)), imposing discrete congruence constraints at finite primes compresses Euclidean volume at the infinite place—mirroring how NTRU and ML-KEM embed exceptionally short secret vectors modulo \(q\).
 * **Alignment with NIST ML-KEM Core-SVP Benchmarks**:
@@ -114,6 +119,8 @@ Derived from Szpiro's conjecture (\(N_{\text{sol}} = \exp(-dS)\)) and digital qu
 ## 6. Complex-Plane Analysis: Resonant Divergence and Singularity Shifts
 
 Extending the effective information capacity \(\text{capa}_{\text{eff}}(s, d, g) = 2(2g+1)d \cdot \log_2\left(1 + \frac{q_{\text{Shannon}}(d)}{\Lambda(s)}\right)\) across the complex plane (real part \(-2 \text{ to } 4\), imaginary part \(0 \text{ to } 30\)) reveals rich topological structures. Under the Riemann Hypothesis (RH), all non-trivial zeros are confined to the critical line \(\text{Re}(s) = 1/2\), strictly guaranteeing holomorphicity (smoothness) of the information capacity everywhere off the critical line.
+
+![capa_eff](img/capa_eff.svg)
 
 1. **Mirror Symmetry and Phase Holonomy along \(\text{Re}(s) = 1/2\) (Figure 3)**:
    In Figure 3 (left), the functional equation \(\Lambda(s) = \Lambda(1-s)\) enforces exact reflection symmetry across \(\text{Re}(s) = 1/2\). At the non-trivial Riemann zeros (\(\gamma_1 \approx 14.13, \gamma_2 \approx 21.02, \gamma_3 \approx 25.01\)), \(\Lambda(s) \to 0\) induces sharp resonant hotspots where \(\text{Re}[\text{capa}_{\text{eff}}] \to +\infty\). In Figure 3 (right), each Riemann zero anchors a topological branch cut across which the imaginary component jumps discontinuously by \(\pm \frac{2\pi}{\ln 2} \approx \pm 9.065\).
@@ -145,6 +152,8 @@ Extending the effective information capacity \(\text{capa}_{\text{eff}}(s, d, g)
 ## 7. Landauer's Principle, Zero-Point Energy (ZPE), 10D Superstring Equipartition, and Physical \(P \neq NP\)
 
 Connecting the asymptotic behavior of the per-dimension entropy margin \(-dS_{\text{margin}}(d, g)\) to **Landauer's principle** in thermodynamics and **critical-dimension equipartition in superstring theory** uncovers fundamental physical bounds on high-dimensional computation.
+
+![ZPE10](../img/fig.7.svg)
 
 1. **Proximity of Zero-Point Energy (ZPE) to the Euler–Mascheroni Constant \(\gamma\)**:
    Converting the asymptotic bit-entropy difference \(-dS_0 \approx 0.8366732335\text{ bits}\) into natural logarithmic units via Landauer's erasure factor \(\ln 2 \approx 0.6931471806\) (corresponding to the minimum thermodynamic dissipation \(k_B T \ln 2\) per bit erased) defines the **Zero-Point Energy index (ZPE)**:
