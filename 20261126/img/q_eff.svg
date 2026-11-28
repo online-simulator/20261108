@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<!-- online-simulator.github.io.7.546.761.33.204 @ Sat Nov 28 2026 18:29:32 GMT+0900 (日本標準時) @ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36 -->
+<!-- plot2d("1","0","eps_=t,eps_;eps_;eps_;eps_;eps_;eps_;eps_;eps_;gs={14.13472514,21.02203964,25.01085758,30.42487613,32.93506159,37.58617816,40.91871901,43.32707328,48.00515088,49.77383248,52.97032148,56.44624770,59.34704400,60.83177852,65.11254405,67.07981053,69.54640171,72.06715767,75.70469070,77.14484007,79.33737502,82.91038085,84.73549298,87.42527461,88.80911121,92.49189927,94.65134404,95.87063423,98.83119422,101.31785101,103.72553804,105.44662305,107.16861118,111.02953554,111.87465918,114.32022092,116.22668032,118.79078287,121.37012500,122.94682929,124.25681855,127.51668388,129.57870420,131.08768853,133.49773720,134.75650975,138.11604205,139.73620895,141.12370740,143.11184581,146.00098249,147.42276534,150.05352042,150.92525761,153.02469381,156.11290929,157.59759182,158.84998817,161.18896414,163.03070969,165.53706919,167.18443998,169.09451542,169.91197648,173.41153652,174.75419152,176.44143430,178.37740778,179.91648402,182.20707848,184.87446785,185.59878368,187.22892258,189.41615866,192.02665636,193.07972660,195.26539668,196.87648184,198.01530968,201.26475194,202.49359451,204.18967180,205.39469720,207.90625889,209.57650972,211.69086260,213.34791936,214.54704478,216.16953851,219.06759635,220.71491884,221.43070555,224.00700025,224.98332467,227.42144428,229.33741331,231.25018870,231.98723525,233.69340418,236.52422967},g2G(g)=<2pi/(g*ln(g)),L2normG=norm(g2G(=<gs).),d=1,L=L2normG*d,eps_critical=L/2,eps_critical;","2;q_Shannon(d)=<1+(1/log2(3))/d,q_Shannon(1);log(23**5)/log(2*3*109*23);1.6157997742440147;1.529233058817957;1.452935709194121;1.23752523414253;U_barrier(eps_)=<L/eps_,C(eps_)=<exp(U_barrier(eps_)),P_tunnel(eps_)=<1/C(eps_),int_P(eps_)=<_i0((t)=<P_tunnel(t),0,eps_),q_eff(eps_)=<1+int_P(eps_),q_eff(eps_);","50","ORIGIN{2.5,gray,17}TITLE{statistical mechanics of arithmetic fluctuation: q_eff(ε)=1+∫dε/C(ε)}XLABEL{eps}YLABEL{q}topological limit::0;q_Shannon of Shannon limit,d=1;quantum spike by Reyssat@1987;L=0.16783033500051436 from Planck cell;L=0.2391632423363227@t=[g1,∞];L=1/pi≒0.30603772582476263@t=[2pi,∞];L=ln(2) from GUE statistics;q_eff(1)≒1.616→1.5(max-norm→L2-norm of barriers)::5;eps=eps_critical=L/2::0;"," "," "," ") -->
+<!-- center=true&wheel=true&drag=false&test-case=false&plot-all=true&relzooming=true&snap=true&legend=true&axis-t=false&axis-x=true&log-x=false&imag-x=false&axis-y=true&log-y=false&imag-y=false&axis-z=true&axis-v=true&config-plot=false&useMatrix=true&useStrict=false&sharedStorage=false&checkError=true&equation-list=false&config=false&isRightAssociativityBR=false&isDIVprior2OMUL=false&useComma=false&use$let=false&useMutex=false&useWorker=true&plot2d-Ver=3&decDigit=1&roundDigit-y=0&rows-y=5&roundDigit-x=0&rows-x=5&n_thread=4&canvas-background=black&grid-line-width=0.5&marker-size=5&marker-line-width=0&plot-line-width=2&font-size=12&grid-x-Ni=0&grid-y-Nj=0&kx-adjust=2&marker-colors=Ver.1&legend-kx=0.25&legend-ky=0.1&canvas-globalCompositeOperationLayer=source-over&canvas-globalCompositeOperation=source-over&useComplex=-1&expDigit=-1&useFunc=0&useScopeWith=0&N=50&matSizeMax=1024&depthMax=300&oldPlot2d=false&input-z=ORIGIN{2.5,gray,17}TITLE{statistical mechanics of arithmetic fluctuation: q_eff(ε)=1+∫dε/C(ε)}XLABEL{eps}YLABEL{q}topological limit::0;q_Shannon of Shannon limit,d=1;quantum spike by Reyssat@1987;L=0.16783033500051436 from Planck cell;L=0.2391632423363227@t=[g1,∞];L=1/pi≒0.30603772582476263@t=[2pi,∞];L=ln(2) from GUE statistics;q_eff(1)≒1.616→1.5(max-norm→L2-norm of barriers)::5;eps=eps_critical=L/2::0;&last-legend=0&expDigitX=-1&expDigitY=-1&bg-color=&grid-line-color=gray -->
+<polygon fill="black" stroke="none" points="0 0 512 0 512 512 0 512"/>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(256 14)" x="-218.9" y="0">statistical mechanics of arithmetic fluctuation: q_eff(ε)=1+∫dε/C(ε)</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(279.2 486.4)" x="-11.5" y="0">eps</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="rotate(-90 25.6 232.3) translate(25.6 232.3)" x="-4.4" y="14">q</text>
+<line stroke="gray" stroke-width="2.5" stroke-linecap="round" x1="93" y1="435.7" x2="93" y2="28.9"/>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="93" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="89.7" y="459.7">0</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="167.5" y1="435.7" x2="167.5" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="159.2" y="459.7">0.2</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="242" y1="435.7" x2="242" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="233.7" y="459.7">0.4</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="316.5" y1="435.7" x2="316.5" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="308.1" y="459.7">0.6</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="390.9" y1="435.7" x2="390.9" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="382.6" y="459.7">0.8</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="465.4" y1="435.7" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="462.1" y="459.7">1</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="465.4" y2="435.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="441.7">1</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="354.3" x2="465.4" y2="354.3"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="360.3">1.2</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="272.9" x2="465.4" y2="272.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="278.9">1.4</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="191.6" x2="465.4" y2="191.6"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="197.6">1.6</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="110.2" x2="465.4" y2="110.2"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="64.4" y="116.2">1.8</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="28.9" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="34.9">2</text>
+<g style="mask:url(#mask_lines_and_gradations)">
+</g>
+<g style="mask:url(#mask_lines_and_gradations)">
+<polyline fill="none" stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 28.9 458 28.9 450.5 28.9 443.1 28.9 435.6 28.9 428.2 28.9 420.7 28.9 413.3 28.9 405.8 28.9 398.4 28.9 390.9 28.9 383.5 28.9 376 28.9 368.6 28.9 361.1 28.9 353.7 28.9 346.2 28.9 338.8 28.9 331.4 28.9 323.9 28.9 316.5 28.9 309 28.9 301.6 28.9 294.1 28.9 286.7 28.9 279.2 28.9 271.8 28.9 264.3 28.9 256.9 28.9 249.4 28.9 242 28.9 234.5 28.9 227.1 28.9 219.6 28.9 212.2 28.9 204.7 28.9 197.3 28.9 189.9 28.9 182.4 28.9 175 28.9 167.5 28.9 160.1 28.9 152.6 28.9 145.2 28.9 137.7 28.9 130.3 28.9 122.8 28.9 115.4 28.9 107.9 28.9 100.5 28.9 93 28.9"/>
+<line />
+<polyline fill="none" stroke="rgb(255,85,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 179 458 179 450.5 179 443.1 179 435.6 179 428.2 179 420.7 179 413.3 179 405.8 179 398.4 179 390.9 179 383.5 179 376 179 368.6 179 361.1 179 353.7 179 346.2 179 338.8 179 331.4 179 323.9 179 316.5 179 309 179 301.6 179 294.1 179 286.7 179 279.2 179 271.8 179 264.3 179 256.9 179 249.4 179 242 179 234.5 179 227.1 179 219.6 179 212.2 179 204.7 179 197.3 179 189.9 179 182.4 179 175 179 167.5 179 160.1 179 152.6 179 145.2 179 137.7 179 130.3 179 122.8 179 115.4 179 107.9 179 100.5 179 93 179"/>
+<line />
+<polyline fill="none" stroke="rgb(255,170,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 179.4 458 179.4 450.5 179.4 443.1 179.4 435.6 179.4 428.2 179.4 420.7 179.4 413.3 179.4 405.8 179.4 398.4 179.4 390.9 179.4 383.5 179.4 376 179.4 368.6 179.4 361.1 179.4 353.7 179.4 346.2 179.4 338.8 179.4 331.4 179.4 323.9 179.4 316.5 179.4 309 179.4 301.6 179.4 294.1 179.4 286.7 179.4 279.2 179.4 271.8 179.4 264.3 179.4 256.9 179.4 249.4 179.4 242 179.4 234.5 179.4 227.1 179.4 219.6 179.4 212.2 179.4 204.7 179.4 197.3 179.4 189.9 179.4 182.4 179.4 175 179.4 167.5 179.4 160.1 179.4 152.6 179.4 145.2 179.4 137.7 179.4 130.3 179.4 122.8 179.4 115.4 179.4 107.9 179.4 100.5 179.4 93 179.4"/>
+<line />
+<polyline fill="none" stroke="rgb(255,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 185.2 458 185.2 450.5 185.2 443.1 185.2 435.6 185.2 428.2 185.2 420.7 185.2 413.3 185.2 405.8 185.2 398.4 185.2 390.9 185.2 383.5 185.2 376 185.2 368.6 185.2 361.1 185.2 353.7 185.2 346.2 185.2 338.8 185.2 331.4 185.2 323.9 185.2 316.5 185.2 309 185.2 301.6 185.2 294.1 185.2 286.7 185.2 279.2 185.2 271.8 185.2 264.3 185.2 256.9 185.2 249.4 185.2 242 185.2 234.5 185.2 227.1 185.2 219.6 185.2 212.2 185.2 204.7 185.2 197.3 185.2 189.9 185.2 182.4 185.2 175 185.2 167.5 185.2 160.1 185.2 152.6 185.2 145.2 185.2 137.7 185.2 130.3 185.2 122.8 185.2 115.4 185.2 107.9 185.2 100.5 185.2 93 185.2"/>
+<line />
+<polyline fill="none" stroke="rgb(170,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 220.4 458 220.4 450.5 220.4 443.1 220.4 435.6 220.4 428.2 220.4 420.7 220.4 413.3 220.4 405.8 220.4 398.4 220.4 390.9 220.4 383.5 220.4 376 220.4 368.6 220.4 361.1 220.4 353.7 220.4 346.2 220.4 338.8 220.4 331.4 220.4 323.9 220.4 316.5 220.4 309 220.4 301.6 220.4 294.1 220.4 286.7 220.4 279.2 220.4 271.8 220.4 264.3 220.4 256.9 220.4 249.4 220.4 242 220.4 234.5 220.4 227.1 220.4 219.6 220.4 212.2 220.4 204.7 220.4 197.3 220.4 189.9 220.4 182.4 220.4 175 220.4 167.5 220.4 160.1 220.4 152.6 220.4 145.2 220.4 137.7 220.4 130.3 220.4 122.8 220.4 115.4 220.4 107.9 220.4 100.5 220.4 93 220.4"/>
+<line />
+<polyline fill="none" stroke="rgb(85,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 251.4 458 251.4 450.5 251.4 443.1 251.4 435.6 251.4 428.2 251.4 420.7 251.4 413.3 251.4 405.8 251.4 398.4 251.4 390.9 251.4 383.5 251.4 376 251.4 368.6 251.4 361.1 251.4 353.7 251.4 346.2 251.4 338.8 251.4 331.4 251.4 323.9 251.4 316.5 251.4 309 251.4 301.6 251.4 294.1 251.4 286.7 251.4 279.2 251.4 271.8 251.4 264.3 251.4 256.9 251.4 249.4 251.4 242 251.4 234.5 251.4 227.1 251.4 219.6 251.4 212.2 251.4 204.7 251.4 197.3 251.4 189.9 251.4 182.4 251.4 175 251.4 167.5 251.4 160.1 251.4 152.6 251.4 145.2 251.4 137.7 251.4 130.3 251.4 122.8 251.4 115.4 251.4 107.9 251.4 100.5 251.4 93 251.4"/>
+<line />
+<polyline fill="none" stroke="rgb(0,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 339 458 339 450.5 339 443.1 339 435.6 339 428.2 339 420.7 339 413.3 339 405.8 339 398.4 339 390.9 339 383.5 339 376 339 368.6 339 361.1 339 353.7 339 346.2 339 338.8 339 331.4 339 323.9 339 316.5 339 309 339 301.6 339 294.1 339 286.7 339 279.2 339 271.8 339 264.3 339 256.9 339 249.4 339 242 339 234.5 339 227.1 339 219.6 339 212.2 339 204.7 339 197.3 339 189.9 339 182.4 339 175 339 167.5 339 160.1 339 152.6 339 145.2 339 137.7 339 130.3 339 122.8 339 115.4 339 107.9 339 100.5 339 93 339"/>
+<line />
+<polyline fill="none" stroke="rgb(0,170,255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 231.5 458 237.7 450.5 243.9 443.1 250 435.6 256.1 428.2 262.2 420.7 268.2 413.3 274.2 405.8 280.2 398.4 286.1 390.9 292 383.5 297.8 376 303.6 368.6 309.3 361.1 314.9 353.7 320.5 346.2 326.1 338.8 331.5 331.4 336.9 323.9 342.3 316.5 347.5 309 352.7 301.6 357.8 294.1 362.9 286.7 367.8 279.2 372.6 271.8 377.4 264.3 382 256.9 386.5 249.4 390.9 242 395.1 234.5 399.3 227.1 403.2 219.6 407 212.2 410.7 204.7 414.1 197.3 417.4 189.9 420.4 182.4 423.3 175 425.8 167.5 428.1 160.1 430.1 152.6 431.8 145.2 433.2 137.7 434.3 130.3 435 122.8 435.4 115.4 435.6 107.9 435.7 100.5 435.7 93 435.7"/>
+<line />
+<polyline fill="none" stroke="rgb(0,85,255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="142.5 231.5 142.5 237.7 142.5 243.9 142.5 250 142.5 256.1 142.5 262.2 142.5 268.2 142.5 274.2 142.5 280.2 142.5 286.1 142.5 292 142.5 297.8 142.5 303.6 142.5 309.3 142.5 314.9 142.5 320.5 142.5 326.1 142.5 331.5 142.5 336.9 142.5 342.3 142.5 347.5 142.5 352.7 142.5 357.8 142.5 362.9 142.5 367.8 142.5 372.6 142.5 377.4 142.5 382 142.5 386.5 142.5 390.9 142.5 395.1 142.5 399.3 142.5 403.2 142.5 407 142.5 410.7 142.5 414.1 142.5 417.4 142.5 420.4 142.5 423.3 142.5 425.8 142.5 428.1 142.5 430.1 142.5 431.8 142.5 433.2 142.5 434.3 142.5 435 142.5 435.4 142.5 435.6 142.5 435.7 142.5 435.7 142.5 435.7"/>
+<line />
+</g>
+<defs><mask id="mask_lines_and_gradations"><rect x="93" y="28.8" width="373.3" height="407.8" fill="#ffffff"/></mask></defs>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="465.4 224.5 459.4 234.9 471.5 234.9"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="458 230.7 451.9 241.2 464 241.2"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="450.5 236.9 444.5 247.4 456.6 247.4"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="443.1 243 437 253.5 449.1 253.5"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="435.6 249.2 429.6 259.6 441.7 259.6"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="428.2 255.2 422.1 265.7 434.2 265.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="420.7 261.3 414.7 271.7 426.8 271.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="413.3 267.3 407.2 277.7 419.3 277.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="405.8 273.2 399.8 283.7 411.9 283.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="398.4 279.1 392.3 289.6 404.4 289.6"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="390.9 285 384.9 295.5 397 295.5"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="383.5 290.8 377.4 301.3 389.5 301.3"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="376 296.6 370 307 382.1 307"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="368.6 302.3 362.5 312.8 374.6 312.8"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="361.1 307.9 355.1 318.4 367.2 318.4"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="353.7 313.5 347.6 324 359.7 324"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="346.2 319.1 340.2 329.5 352.3 329.5"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="338.8 324.5 332.8 335 344.8 335"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="331.4 330 325.3 340.4 337.4 340.4"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="323.9 335.3 317.9 345.8 330 345.8"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="316.5 340.6 310.4 351 322.5 351"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="309 345.8 303 356.2 315.1 356.2"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="301.6 350.9 295.5 361.3 307.6 361.3"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="294.1 355.9 288.1 366.4 300.2 366.4"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="286.7 360.8 280.6 371.3 292.7 371.3"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="279.2 365.6 273.2 376.1 285.3 376.1"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="271.8 370.4 265.7 380.9 277.8 380.9"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="264.3 375 258.3 385.5 270.4 385.5"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="256.9 379.5 250.8 390 262.9 390"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="249.4 383.9 243.4 394.4 255.5 394.4"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="242 388.2 235.9 398.6 248 398.6"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="234.5 392.3 228.5 402.8 240.6 402.8"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="227.1 396.3 221 406.7 233.1 406.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="219.6 400.1 213.6 410.5 225.7 410.5"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="212.2 403.7 206.2 414.2 218.2 414.2"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="204.7 407.2 198.7 417.6 210.8 417.6"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="197.3 410.4 191.3 420.9 203.3 420.9"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="189.9 413.5 183.8 423.9 195.9 423.9"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="182.4 416.3 176.4 426.7 188.5 426.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="175 418.8 168.9 429.3 181 429.3"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="167.5 421.1 161.5 431.6 173.6 431.6"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="160.1 423.1 154 433.6 166.1 433.6"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="152.6 424.9 146.6 435.3 158.7 435.3"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="145.2 426.2 139.1 436.7 151.2 436.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="137.7 427.3 131.7 437.8 143.8 437.8"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="130.3 428 124.2 438.5 136.3 438.5"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="122.8 428.5 116.8 438.9 128.9 438.9"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="115.4 428.6 109.3 439.1 121.4 439.1"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="107.9 428.7 101.9 439.2 114 439.2"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="100.5 428.7 94.4 439.2 106.5 439.2"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="93 428.7 87 439.2 99.1 439.2"/>
+<polygon fill="black" stroke="none" points="128 52.7 255.4 52.7 255.4 64.7 128 64.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="64.7">topological limit</text>
+<line stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="58.7" x2="152" y2="58.7"/>
+<polygon fill="black" stroke="none" points="128 67.7 347.7 67.7 347.7 79.7 128 79.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="79.7">q_Shannon of Shannon limit,d=1</text>
+<line stroke="rgb(255,85,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="73.7" x2="152" y2="73.7"/>
+<polygon fill="black" stroke="none" points="128 82.7 347.3 82.7 347.3 94.7 128 94.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="94.7">quantum spike by Reyssat@1987</text>
+<line stroke="rgb(255,170,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="88.7" x2="152" y2="88.7"/>
+<polygon fill="black" stroke="none" points="128 97.7 392.3 97.7 392.3 109.7 128 109.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="109.7">L=0.16783033500051436 from Planck cell</text>
+<line stroke="rgb(255,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="103.7" x2="152" y2="103.7"/>
+<polygon fill="black" stroke="none" points="128 112.7 353.1 112.7 353.1 124.7 128 124.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="124.7">L=0.2391632423363227@t=[g1,∞]</text>
+<line stroke="rgb(170,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="118.7" x2="152" y2="118.7"/>
+<polygon fill="black" stroke="none" points="128 127.7 394.8 127.7 394.8 139.7 128 139.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="139.7">L=1/pi≒0.30603772582476263@t=[2pi,∞]</text>
+<line stroke="rgb(85,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="133.7" x2="152" y2="133.7"/>
+<polygon fill="black" stroke="none" points="128 142.7 310.2 142.7 310.2 154.7 128 154.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="154.7">L=ln(2) from GUE statistics</text>
+<line stroke="rgb(0,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="148.7" x2="152" y2="148.7"/>
+<polygon fill="black" stroke="none" points="128 157.7 460.6 157.7 460.6 169.7 128 169.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="169.7">q_eff(1)≒1.616→1.5(max-norm→L2-norm of barriers)</text>
+<line stroke="rgb(0,170,255)" stroke-width="2" stroke-linecap="round" x1="128" y1="163.7" x2="152" y2="163.7"/>
+<polygon fill="rgb(0,170,255)" stroke="black" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="140 156.7 133.9 167.1 146 167.1"/>
+<polygon fill="black" stroke="none" points="128 172.7 279.2 172.7 279.2 184.7 128 184.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="184.7">eps=eps_critical=L/2</text>
+<line stroke="rgb(0,85,255)" stroke-width="2" stroke-linecap="round" x1="128" y1="178.7" x2="152" y2="178.7"/>
+</svg>

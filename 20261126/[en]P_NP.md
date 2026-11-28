@@ -41,6 +41,8 @@ In contrast, by embedding the completed zeta function \(\Lambda(s) = \pi^{-s/2}\
 
 \[\text{capa}(n, d, g) = (-dS_0) \cdot n(2g+1)d \left( 1 - \exp\left( -\frac{1}{n(2g+1)d (1 + dS_0)} \right) \right)\]
 
+![q_eff](img/q_eff.svg)
+![Mordell](img/Mordell.svg)
 ![AD](img/AD.svg)
 
 * **Penalty-Free Exponential Decay**:
@@ -179,6 +181,8 @@ Connecting the asymptotic behavior of the per-dimension entropy margin \(-dS_{\t
 ## 8. Conclusion and Unified Outlook
 
 Our numerical and analytical findings demonstrate that the spectral structure of the Riemann zeta function‚Äîthrough its critical-line zeros and adelic Haar measure‚Äîserves as a universal metric governing **(i) entanglement capacity bounds in quantum parallel repetition**, **(ii) maximal discrete symmetries of Hurwitz curves and the 24-dimensional Leech lattice**, **(iii) Core-SVP security margins in post-quantum cryptography (ML-KEM)**, and **(iv) thermodynamic search barriers via Landauer's principle and 10-dimensional superstring equipartition (\(\text{ZPE}/10 \approx \gamma/10\))**. By bridging arithmetic geometry, quantum information, thermodynamics, and string theory, this unified framework offers a rigorous foundation for evaluating next-generation cryptographic security and physical limits of computation.
+
+![PÅÇNP](../img/fig.1.svg)
 
 ---
 

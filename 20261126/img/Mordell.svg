@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+<!-- online-simulator.github.io.7.546.761.33.204 @ Sat Nov 28 2026 18:33:19 GMT+0900 (日本標準時) @ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/158.0.0.0 Safari/537.36 -->
+<!-- plot2d("1","5","N=t,N;N;N;N;N;q_Shannon(d)=<1+(1/log2(3))/d,I_Fisher(d,g)=<[(sharpness)=<sharpness*d*(q_Shannon(d)-1)**2](2*(2g+1)*d)=>,N_critical(d,g)=<[C_qmin=0.8725702410567953/*[1/sqrt(2),1+dC_q]*/,(I_Fisher_inv)=<exp(C_qmin*I_Fisher_inv)](1/I_Fisher(d,g))=>,N_critical(1,1);N_critical(1,2);N_critical(2,1);N_critical(2,2);log2e;","h_Weil=ln(209040),h_Weil;ratio(d,g)=<[C0_digital=1/sqrt(2),(sharpness)=<sharpness*q_Shannon(d)-C0_digital](2*(2g+1)*d)=>,H_Faltings(X)=<X,ln_D(d,g,N,X)=<ratio(d,g)*ln(N)+12*H_Faltings(X),X=0,ln_D(1,1,N,X);ln_D(1,2,N,X);ln_D(2,1,N,X);ln_D(2,2,N,X);","10","ORIGIN{2.5,gray,17}TITLE{effective Mordell-conjecture bound via Arakelov-Shannon geometry}XLABEL{N}YLABEL{height bound4curves[nats]}h_Weil from Mordell-Weil sieve::0;height,d=1,g=1,X=0::5:2;1,2;2,1;2,2;N_critical,d=1,g=1 -> 1.441 of IUT effective-constant@2022::0;1,2;2,1;2,2;log2e>N_critical>1;"," "," "," ") -->
+<!-- center=true&wheel=true&drag=false&test-case=false&plot-all=true&relzooming=true&snap=true&legend=true&axis-t=false&axis-x=true&log-x=false&imag-x=false&axis-y=true&log-y=false&imag-y=false&axis-z=true&axis-v=true&config-plot=true&useMatrix=true&useStrict=false&sharedStorage=false&checkError=true&equation-list=false&config=false&isRightAssociativityBR=false&isDIVprior2OMUL=false&useComma=false&use$let=false&useMutex=false&useWorker=true&plot2d-Ver=3&decDigit=1&roundDigit-y=0&rows-y=5&roundDigit-x=0&rows-x=5&n_thread=4&canvas-background=black&grid-line-width=0.5&marker-size=5&marker-line-width=0&plot-line-width=2&font-size=12&grid-x-Ni=5&grid-y-Nj=5&kx-adjust=2&marker-colors=Ver.1&legend-kx=0.25&legend-ky=0.1&canvas-globalCompositeOperationLayer=source-over&canvas-globalCompositeOperation=source-over&useComplex=-1&expDigit=-1&useFunc=0&useScopeWith=0&N=10&matSizeMax=1024&depthMax=300&oldPlot2d=false&input-z=ORIGIN{2.5,gray,17}TITLE{effective Mordell-conjecture bound via Arakelov-Shannon geometry}XLABEL{N}YLABEL{height bound4curves[nats]}h_Weil from Mordell-Weil sieve::0;height,d=1,g=1,X=0::5:2;1,2;2,1;2,2;N_critical,d=1,g=1 -> 1.441 of IUT effective-constant@2022::0;1,2;2,1;2,2;log2e>N_critical>1;&last-legend=0&expDigitX=-1&expDigitY=-1&bg-color=&grid-line-color=gray -->
+<polygon fill="black" stroke="none" points="0 0 512 0 512 512 0 512"/>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(256 14)" x="-219.3" y="0">effective Mordell-conjecture bound via Arakelov-Shannon geometry</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="translate(279.2 486.4)" x="-5.1" y="0">N</text>
+<text font-family="sans-serif" font-size="14" fill="gray" stroke="gray" transform="rotate(-90 25.6 232.3) translate(25.6 232.3)" x="-87.9" y="14">height bound4curves[nats]</text>
+<line stroke="gray" stroke-width="2.5" stroke-linecap="round" x1="93" y1="435.7" x2="465.4" y2="435.7"/>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="93" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="89.7" y="459.7">1</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="186.1" y1="435.7" x2="186.1" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="182.8" y="459.7">2</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="279.2" y1="435.7" x2="279.2" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="275.9" y="459.7">3</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="372.3" y1="435.7" x2="372.3" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="369" y="459.7">4</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="465.4" y1="435.7" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="462.1" y="459.7">5</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="435.7" x2="465.4" y2="435.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="74.4" y="441.7">0</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="354.3" x2="465.4" y2="354.3"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="67.7" y="360.3">10</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="272.9" x2="465.4" y2="272.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="67.7" y="278.9">20</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="191.6" x2="465.4" y2="191.6"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="67.7" y="197.6">30</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="110.2" x2="465.4" y2="110.2"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="67.7" y="116.2">40</text>
+<line stroke="gray" stroke-width="0.5" stroke-linecap="round" x1="93" y1="28.9" x2="465.4" y2="28.9"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="67.7" y="34.9">50</text>
+<g style="mask:url(#mask_lines_and_gradations)">
+</g>
+<g style="mask:url(#mask_lines_and_gradations)">
+<polyline fill="none" stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 336 130.3 336 167.5 336 204.8 336 242 336 279.2 336 316.5 336 353.7 336 390.9 336 428.2 336 465.4 336"/>
+<line />
+<polyline fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 435.7 130.3 410.8 167.5 392.3 204.8 377.4 242 365.1 279.2 354.5 316.5 345.3 353.7 337.1 390.9 329.7 428.2 322.9 465.4 316.8"/>
+<line />
+<polyline fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 435.7 130.3 393 167.5 361.1 204.8 335.6 242 314.4 279.2 296.2 316.5 280.3 353.7 266.2 390.9 253.5 428.2 241.9 465.4 231.4"/>
+<line />
+<polyline fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 435.7 130.3 394.4 167.5 363.6 204.8 338.9 242 318.4 279.2 300.9 316.5 285.5 353.7 271.9 390.9 259.6 428.2 248.4 465.4 238.2"/>
+<line />
+<polyline fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 435.7 130.3 365.6 167.5 313.2 204.8 271.4 242 236.6 279.2 206.8 316.5 180.7 353.7 157.6 390.9 136.7 428.2 117.8 465.4 100.4"/>
+<line />
+<polyline fill="none" stroke="rgb(127,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="134.1 435.7 134.1 365.6 134.1 313.2 134.1 271.4 134.1 236.6 134.1 206.8 134.1 180.7 134.1 157.6 134.1 136.7 134.1 117.8 134.1 100.4"/>
+<line />
+<polyline fill="none" stroke="rgb(51,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="115.9 435.7 115.9 365.6 115.9 313.2 115.9 271.4 115.9 236.6 115.9 206.8 115.9 180.7 115.9 157.6 115.9 136.7 115.9 117.8 115.9 100.4"/>
+<line />
+<polyline fill="none" stroke="rgb(0,229,255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="134.1 435.7 134.1 365.6 134.1 313.2 134.1 271.4 134.1 236.6 134.1 206.8 134.1 180.7 134.1 157.6 134.1 136.7 134.1 117.8 134.1 100.4"/>
+<line />
+<polyline fill="none" stroke="rgb(0,153,255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="115.9 435.7 115.9 365.6 115.9 313.2 115.9 271.4 115.9 236.6 115.9 206.8 115.9 180.7 115.9 157.6 115.9 136.7 115.9 117.8 115.9 100.4"/>
+<line />
+<polyline fill="none" stroke="rgb(0,76,255)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="134.3 435.7 134.3 365.6 134.3 313.2 134.3 271.4 134.3 236.6 134.3 206.8 134.3 180.7 134.3 157.6 134.3 136.7 134.3 117.8 134.3 100.4"/>
+<line />
+</g>
+<defs><mask id="mask_lines_and_gradations"><rect x="93" y="28.8" width="373.3" height="407.8" fill="#ffffff"/></mask></defs>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 428.7 87 439.2 99.1 439.2"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="130.3 403.8 124.2 414.3 136.3 414.3"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="167.5 385.3 161.5 395.7 173.6 395.7"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="204.8 370.5 198.7 380.9 210.8 380.9"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="242 358.1 235.9 368.6 248 368.6"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="279.2 347.5 273.2 358 285.3 358"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="316.5 338.3 310.4 348.8 322.5 348.8"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="353.7 330.1 347.6 340.6 359.7 340.6"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="390.9 322.7 384.9 333.2 397 333.2"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="428.2 316 422.1 326.4 434.2 326.4"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 309.8 459.4 320.3 471.5 320.3"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 442.7 87 432.2 99.1 432.2"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="130.3 399.9 124.2 389.5 136.3 389.5"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="167.5 368 161.5 357.6 173.6 357.6"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="204.8 342.6 198.7 332.1 210.8 332.1"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="242 321.4 235.9 310.9 248 310.9"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="279.2 303.2 273.2 292.7 285.3 292.7"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="316.5 287.3 310.4 276.8 322.5 276.8"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="353.7 273.2 347.6 262.7 359.7 262.7"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="390.9 260.5 384.9 250 397 250"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="428.2 248.9 422.1 238.5 434.2 238.5"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 238.3 459.4 227.9 471.5 227.9"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="88.6 431.2 97.5 431.2 97.5 440.1 88.6 440.1"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="125.8 390 134.7 390 134.7 398.8 125.8 398.8"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="163.1 359.1 171.9 359.1 171.9 368 163.1 368"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="200.3 334.5 209.2 334.5 209.2 343.4 200.3 343.4"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="237.6 314 246.4 314 246.4 322.9 237.6 322.9"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="274.8 296.5 283.7 296.5 283.7 305.3 274.8 305.3"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="312 281.1 320.9 281.1 320.9 290 312 290"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="349.3 267.5 358.1 267.5 358.1 276.3 349.3 276.3"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="386.5 255.2 395.4 255.2 395.4 264 386.5 264"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="423.7 244 432.6 244 432.6 252.9 423.7 252.9"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="461 233.8 469.8 233.8 469.8 242.7 461 242.7"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="93 429.4 99.3 435.7 93 441.9 86.8 435.7"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="130.3 359.3 136.5 365.6 130.3 371.8 124 365.6"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="167.5 307 173.8 313.2 167.5 319.5 161.2 313.2"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="204.8 265.2 211 271.4 204.8 277.7 198.5 271.4"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="242 230.4 248.3 236.6 242 242.9 235.7 236.6"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="279.2 200.6 285.5 206.8 279.2 213.1 273 206.8"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="316.5 174.5 322.7 180.7 316.5 187 310.2 180.7"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="353.7 151.3 360 157.6 353.7 163.8 347.4 157.6"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="390.9 130.5 397.2 136.7 390.9 143 384.7 136.7"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="428.2 111.5 434.4 117.8 428.2 124 421.9 117.8"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="465.4 94.1 471.7 100.4 465.4 106.7 459.1 100.4"/>
+<polygon fill="black" stroke="none" points="128 52.7 335.4 52.7 335.4 64.7 128 64.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="64.7">h_Weil from Mordell-Weil sieve</text>
+<line stroke="rgb(255,0,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="58.7" x2="152" y2="58.7"/>
+<polygon fill="black" stroke="none" points="128 67.7 270.7 67.7 270.7 79.7 128 79.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="79.7">height,d=1,g=1,X=0</text>
+<line stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="73.7" x2="152" y2="73.7"/>
+<polygon fill="none" stroke="rgb(255,76,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="140 66.7 133.9 77.1 146 77.1"/>
+<polygon fill="black" stroke="none" points="128 82.7 180.6 82.7 180.6 94.7 128 94.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="94.7">1,2</text>
+<line stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="88.7" x2="152" y2="88.7"/>
+<polygon fill="none" stroke="rgb(255,152,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="140 95.6 133.9 85.2 146 85.2"/>
+<polygon fill="black" stroke="none" points="128 97.7 180.6 97.7 180.6 109.7 128 109.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="109.7">2,1</text>
+<line stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="103.7" x2="152" y2="103.7"/>
+<polygon fill="none" stroke="rgb(255,229,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="135.5 99.2 144.4 99.2 144.4 108.1 135.5 108.1"/>
+<polygon fill="black" stroke="none" points="128 112.7 180.6 112.7 180.6 124.7 128 124.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="124.7">2,2</text>
+<line stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="118.7" x2="152" y2="118.7"/>
+<polygon fill="none" stroke="rgb(204,255,0)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="140 112.4 146.2 118.7 140 124.9 133.7 118.7"/>
+<polygon fill="black" stroke="none" points="128 127.7 487.5 127.7 487.5 139.7 128 139.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="139.7">N_critical,d=1,g=1 -&gt; 1.441 of IUT effective-constant@2022</text>
+<line stroke="rgb(127,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="133.7" x2="152" y2="133.7"/>
+<polygon fill="black" stroke="none" points="128 142.7 180.6 142.7 180.6 154.7 128 154.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="154.7">1,2</text>
+<line stroke="rgb(51,255,0)" stroke-width="2" stroke-linecap="round" x1="128" y1="148.7" x2="152" y2="148.7"/>
+<polygon fill="black" stroke="none" points="128 157.7 180.6 157.7 180.6 169.7 128 169.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="169.7">2,1</text>
+<line stroke="rgb(0,229,255)" stroke-width="2" stroke-linecap="round" x1="128" y1="163.7" x2="152" y2="163.7"/>
+<polygon fill="black" stroke="none" points="128 172.7 180.6 172.7 180.6 184.7 128 184.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="184.7">2,2</text>
+<line stroke="rgb(0,153,255)" stroke-width="2" stroke-linecap="round" x1="128" y1="178.7" x2="152" y2="178.7"/>
+<polygon fill="black" stroke="none" points="128 187.7 268.1 187.7 268.1 199.7 128 199.7"/>
+<text font-family="sans-serif" font-size="12" fill="gray" stroke="gray" x="164" y="199.7">log2e&gt;N_critical&gt;1</text>
+<line stroke="rgb(0,76,255)" stroke-width="2" stroke-linecap="round" x1="128" y1="193.7" x2="152" y2="193.7"/>
+</svg>
